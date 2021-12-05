@@ -1,5 +1,5 @@
 # Quem sou eu?
-- 👋 Oi, Eu me chamo Ádrian Cavalcante Santos, vulgo 3nderXP. Sou um Programador Web há algum tempo.
+- 👋 Oi, Eu me chamo Ádrian Cavalcante Santos, vulgo 3nderXP. Sou um Programador Web há algum tempo, sou intermediario entre iniciante e junior.
 
 # Quais os meus interesses?
 - 👀 Eu estou interessado em me formar profissionalmente como um Programador
