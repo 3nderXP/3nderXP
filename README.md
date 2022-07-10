@@ -1,14 +1,21 @@
-# Quem sou eu?
-- 👋 Oi, Eu me chamo Ádrian Cavalcante Santos, vulgo 3nderXP. Sou um Programador Web há algum tempo, apesar de ainda estar estudando.
+# Sobre mim:
 
+- Nome: Ádrian Cavalcante Santos
+- Vulgo: 3nderXP/EnderXP
+- Trabalho atual: Full-Stack PHP
+- Desejo: Evoluir as coisas que eu já sei e aprender coisas novas
 
-# Quais os meus interesses?
-- 👀 Eu estou interessado em me formar profissionalmente como um Programador Web
+# Estatísticas do meu GitHub
 
+[![3nderXP GitHub Stats](https://github-readme-stats.vercel.app/api?username=3nderXP&show_icons=true&theme=tokyonight&hide_border=true&border_color=0088ff&border_radius=20&custom_title=Estatísticas+do+GitHub+do+3nderXP)](https://github.com/3nderXP)
 
-# O que estou aprendendo atualmente como programador?
-- 🌱 Atualmente estou estudando mais a fundo algumas tecnologias e alguns padrões de projetos, como: PHP Orientado a Objetos; Criação de API's, Padrão MVC; E melhorando a modelagem de banco de dados
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3nderXP&show_icons=true&theme=tokyonight&hide_border=true&border_color=0088ff&border_radius=20&custom_title=Linguagens+Mais+Usadas&layout=compact&langs_count=10)](https://github.com/3nderXP)
 
+# Tecnologias:
 
-# 📫 Como entrar em contato comigo?
-- discord: 3nderXP#5386
+<div style="display: flex;align-items:center;gap:20px;">
+  <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</div>
