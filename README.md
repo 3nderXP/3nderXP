@@ -1,4 +1,3 @@
-<img style="width: 100%;" src="https://th.bing.com/th/id/OIG4.uhFk3tE3WjmKbhBh1xAI?pid=ImgGn">
 # 3nderXP's GitHub
 
 - 🎮 **Web Full-Stack Developer | Freelancer**
