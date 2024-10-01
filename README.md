@@ -1,69 +1,28 @@
-# Sobre mim:
+<img style="width: 100%;" src="https://files.oaiusercontent.com/file-94ZpMFZXiAefhLxy6pGiJ7aY?se=2024-10-01T02%3A59%3A19Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D30951033-0e56-423a-b269-c54e9933719c.webp&sig=3wQkGylXYcScfzH/yI9we4MGCYT0BeLOfIRwjW4xgO0%3D">
 
-- Nome: Ádrian Cavalcante Santos
-- Vulgo: 3nderXP/EnderXP
-- Trabalho atual: Full-Stack PHP
-- Desejo: Evoluir as coisas que eu já sei e aprender coisas novas
-- Meu portfólio: <a href="https://3nderxp.github.io/meuportfolio">3nderxp.github.io/meuportfolio</a>
+# 3nderXP's GitHub
 
-# Estatísticas do meu GitHub
+- 🎮 **Web Full-Stack Developer | Freelancer**
+- 🚀 Amante de tecnologia, games e inovação.
+- 💻 Trabalhando com: **PHP, JavaScript, HTML, CSS, SQL, IAs**
+- 📚 Explorando: **React, Node.js**
 
-[![3nderXP GitHub Stats](https://github-readme-stats.vercel.app/api?username=3nderXP&show_icons=true&theme=tokyonight&hide_border=true&border_color=0088ff&border_radius=20&custom_title=Estatísticas+do+GitHub+do+3nderXP)](https://github.com/3nderXP)
+## Sobre mim
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3nderXP&show_icons=true&theme=tokyonight&hide_border=true&border_color=0088ff&border_radius=20&custom_title=Linguagens+Mais+Usadas&layout=compact&langs_count=10)](https://github.com/3nderXP)
+Sou um programador web full-stack com foco em desenvolvimento de soluções inovadoras e eficientes. Amo tecnologia e estou sempre explorando novas ferramentas para entregar a melhor experiência. Também sou um entusiasta por **calistenia**, **música** e **animes**, o que me ajuda a manter um equilíbrio entre mente e corpo.
 
-# Front-end:
+## O que você vai encontrar aqui:
 
-<div style="display: flex;align-items:center;gap:20px;">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  </a>
-  <a href="https://jquery.com/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
-  </a>
-</div>
+- **Projetos pessoais:** coisas que eu gosto de fazer e explorar.
+- **Freelas entregues:** códigos e soluções desenvolvidas para clientes.
+- **Aprendizado constante:** repositórios onde eu pratico e estudo novas tecnologias.
 
-# Back-end
+## Conecte-se comigo
 
-<div style="display: flex;align-items:center;gap:20px;">
-  <a href="https://www.php.net/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  </a>
-  <a href="https://getcomposer.org/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg">
-  </a>
-  <a href="https://nodejs.org">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  </a>
-  <a href="https://www.npmjs.com/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-  </a>
-  <a href="https://discord.js.org/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg">
-  </a>
-</div>
+- [Discord (Privado)](https://discord.com/users/369230482237423617)
+- [Discord (Comunidade)](https://discord.com/invite/ZKjrWNNbCZ)
+- [Instagram](https://www.instagram.com/adrian.cs.dev/)
+- [LinkedIn](https://www.linkedin.com/in/%C3%A1drian-cavalcante-519978227/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgk162%2FTSSsOS%2B8geeLaLKg%3D%3D)
+- [Portfólio](https://3nderxp.github.io/meuportfolio/)
 
-# Banco de dados
-
-<div style="display: flex;align-items:center;gap:20px;">
-  <a href="https://www.mysql.com/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> </a>
-  </a>
-</div>
-
-# Extras
-
-<div style="display: flex;align-items:center;gap:20px;">
-  <a href="https://git-scm.com/">
-    <img style="width: 30px;height: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </a>
-</div>
+*Sempre em busca de aprender mais e contribuir com a comunidade de devs.* **Pull requests e colaborações são super bem-vindas!**
