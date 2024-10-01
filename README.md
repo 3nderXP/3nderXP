@@ -1,5 +1,4 @@
-<img style="width: 100%;" src="https://files.oaiusercontent.com/file-94ZpMFZXiAefhLxy6pGiJ7aY?se=2024-10-01T02%3A59%3A19Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D30951033-0e56-423a-b269-c54e9933719c.webp&sig=3wQkGylXYcScfzH/yI9we4MGCYT0BeLOfIRwjW4xgO0%3D">
-
+<img style="width: 100%;" src="https://th.bing.com/th/id/OIG4.uhFk3tE3WjmKbhBh1xAI?pid=ImgGn">
 # 3nderXP's GitHub
 
 - 🎮 **Web Full-Stack Developer | Freelancer**
