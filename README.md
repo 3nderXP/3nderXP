@@ -1,4 +1,4 @@
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=3nderXP&theme=dracula&show_icons=true&hide_border=true&count_private=true">
+<img with="467" align="right"  src="https://github-readme-stats.vercel.app/api?username=3nderXP&theme=dracula&show_icons=true&hide_border=true&count_private=true">
 
 # 3nderXP's GitHub
 
@@ -7,13 +7,13 @@
 - 💻 Trabalhando com: **PHP, JavaScript, HTML, CSS, SQL, IAs**
 - 📚 Explorando: **React, Node.js**
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=3nderXP&theme=dracula&show_icons=true&hide_border=true&layout=compact">
+<img with="467" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=3nderXP&theme=dracula&show_icons=true&hide_border=true&layout=compact">
 
 ## Sobre mim
 
 Sou um programador web full-stack com foco em desenvolvimento de soluções inovadoras e eficientes. Amo tecnologia e estou sempre explorando novas ferramentas para entregar a melhor experiência. Também sou um entusiasta por **calistenia**, **música** e **animes**, o que me ajuda a manter um equilíbrio entre mente e corpo.
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=3nderXP&theme=dracula&hide_border=true">
+<img with="467" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=3nderXP&theme=dracula&hide_border=true">
 
 ## O que você vai encontrar aqui:
 
