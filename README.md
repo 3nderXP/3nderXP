@@ -16,7 +16,17 @@ Fora do código, curto **calistenia**, **música** e **animes**, o que acaba sen
 
 ## Stacks
 
-[![Minhas Stacks](https://skillicons.dev/icons?i=php,symfony,html,css,js,nodejs,mysql,postgresql,git,github,linux,docker,nginx)](https://skillicons.dev)
+**Desenvolvimento**
+
+[![Desenvolvimento](https://skillicons.dev/icons?i=php,js,html,css,sass,symfony,nodejs,jquery,mysql,postgres)](https://skillicons.dev)
+
+**Infra & DevOps**
+
+[![Infra & DevOps](https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,githubactions,bash)](https://skillicons.dev)
+
+**Ferramentas**
+
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,phpstorm,postman,figma,notion)](https://skillicons.dev)
 
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=3nderXP&layout=donut&stats_format=percentages&theme=dark&hide_border=true&border_radius=20&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 ---
