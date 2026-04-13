@@ -1,16 +1,9 @@
 <div align="center">
 
-  <img width="2310" height="448" alt="Gemini_Generated_Image_2thd8t2thd8t2thd-no-wmkr-transparent" src="https://github.com/user-attachments/assets/fcaa672c-411c-4c1e-9c94-1c28b48f077c" />
+  <img width="2310" height="448" alt="Gemini_Generated_Image_2thd8t2thd8t2thd-no-wmkr-transparent" src="https://github.com/user-attachments/assets/58998a93-acb2-4d5c-b4da-0d6cf9c49750" />
 
-  
   # Sobre mim
   Desenvolvedor web full-stack, focado em construir soluções práticas, performáticas e bem estruturadas. Tenho interesse em arquitetura de software, boas práticas e tudo que envolva escrever código mais limpo e sustentável no longo prazo.
-  
-  ## O que você vai encontrar aqui
-  > - **Projetos pessoais:** experimentos, ideias e ferramentas que resolvem problemas reais (ou quase isso).
-  > - **Trabalhos e freelas:** soluções aplicadas em contexto de cliente.
-  > - **Estudos:** testes, provas de conceito e aprendizado contínuo.
-
 
   ## Stacks
 
