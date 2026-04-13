@@ -18,11 +18,11 @@ Fora do código, curto **calistenia**, **música** e **animes**, o que acaba sen
 
 **Desenvolvimento**
 
-[![Desenvolvimento](https://skillicons.dev/icons?i=php,js,html,css,sass,symfony,nodejs,jquery,mysql,postgres)](https://skillicons.dev)
+[![Desenvolvimento](https://skillicons.dev/icons?i=php,js,html,css,symfony,nodejs,jquery)](https://skillicons.dev)
 
 **Infra & DevOps**
 
-[![Infra & DevOps](https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,githubactions,bash)](https://skillicons.dev)
+[![Infra & DevOps](https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,githubactions,bash,mysql,postgres,mongodb)](https://skillicons.dev)
 
 **Ferramentas**
 
