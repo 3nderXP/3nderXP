@@ -18,15 +18,15 @@ Fora do código, curto **calistenia**, **música** e **animes**, o que acaba sen
 
 **Desenvolvimento**
 
-[![Desenvolvimento](https://skillicons.dev/icons?i=php,js,html,css,symfony,nodejs,jquery)](https://skillicons.dev)
+[![Desenvolvimento](https://skillicons.dev/icons?i=php,js,html,css,symfony,nodejs,npm,wordpress,jquery,md,regex,nestjs,discordjs,express)](https://skillicons.dev)
 
 **Infra & DevOps**
 
-[![Infra & DevOps](https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,git,github,githubactions,bash,mysql,postgres,mongodb)](https://skillicons.dev)
+[![Infra & DevOps](https://skillicons.dev/icons?i=linux,ubuntu,windows,debian,docker,nginx,netlify,git,github,githubactions,bash,mysql,postgres,mongodb)](https://skillicons.dev)
 
 **Ferramentas**
 
-[![Ferramentas](https://skillicons.dev/icons?i=vscode,phpstorm,postman,figma,notion)](https://skillicons.dev)
+[![Ferramentas](https://skillicons.dev/icons?i=vscode,phpstorm,postman,figma,ps,notion,codepen,stackoverflow)](https://skillicons.dev)
 
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=3nderXP&layout=donut&stats_format=percentages&theme=dark&hide_border=true&border_radius=20&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 ---
