@@ -1,3 +1,5 @@
+<img width="2400" height="448" alt="Gemini_Generated_Image_2thd8t2thd8t2thd-no-wmkr" src="https://github.com/user-attachments/assets/bcf46697-5841-4830-941a-e92f49d2505d" />
+
 # 3nderXP's GitHub
 
 - 🎮 **Web Full-Stack Developer | Freelancer**
